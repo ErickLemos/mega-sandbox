@@ -38,6 +38,4 @@ public interface PagamentoDtoMapper {
         throw new IllegalArgumentException();
     }
 
-
-
 }
